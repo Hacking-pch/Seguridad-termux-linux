@@ -1,0 +1,1 @@
+# Seguridad-termux-linux
